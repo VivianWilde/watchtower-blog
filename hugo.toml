@@ -1,6 +1,7 @@
 baseURL = 'https://vivianwilde.github.io'
 languageCode = 'en-us'
-title = "Vivien's Watchtower Notes"
+title = "Morgana's Watchtower Notes"
 theme = 'm10c'
+[params]
 author = 'Vivien Goyal'
-description = 'Programming Language Nerd'
+description = 'Investigations into Time'

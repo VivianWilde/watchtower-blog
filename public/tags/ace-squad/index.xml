@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Morgana&#39;s Watchtower Notes</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Morgana&#39;s Watchtower Notes</description>
+    <title>Ace Squad on Morgana&#39;s Watchtower Notes</title>
+    <link>http://localhost:1313/tags/ace-squad/</link>
+    <description>Recent content in Ace Squad on Morgana&#39;s Watchtower Notes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Death Valley Knights</title>
-      <link>http://localhost:1313/posts/06-14/</link>
-      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/06-14/</guid>
-      <description>&amp;lt;2024-06-14 Fri&amp;gt;Death Valley Knights Lord Commander MacIntyre meeting: Internal security (Time MI5) Stolen intel: 36 hours unaccounted for, enough time for the code to have been decrypted. Could be Hemlock. Florence Scarred Man: Stole ChronoCo stuff from the tower and fled. Unaffiliated or SecondHand Salamas Scarred Man: Hemlock. Goals: Find out where the information went, how it was stolen. Learn about the men and where they came from. Stolen again somewhere between Florence and Italy.</description>
-    </item>
+    <lastBuildDate>Sun, 09 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ace-squad/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tasha&#39;s Estate</title>
       <link>http://localhost:1313/posts/06-09/</link>

@@ -1,0 +1,86 @@
+---
+title: Tasha's Estate
+tags: [Ace Squad]
+date: 2024-06-09
+---
+* <2024-06-09 Sun>Ace Squad
+** Timeline (new entries)
+- 9:30-12: Council Meeting
+- 12:30: Tasha visited Alec
+- ~12:30: Tasha got a text from Alex saying "I'll kill you if you tell anyone about this", but previous messages are very chill. So text might be a ruse???
+- 1:30: Tasha working at the union office
+- 3:30 Emergency Meeting: Tasha, Clinton, Doe, Tuhorn, and a full list of others were late and the Lone Master sent a rep.
+** Tasha
+- Alec mentioned Tasha had been acting strange recently
+- Alec: "Tasha knew something before she died."
+- Tasha had been frantic recently, terrified, not her usual optimistic self. Talking to shady figures (shady by Alec standards). For the past few weeks.
+- Been running back to her estate mid-day, even missing meetings for it.
+- Tasha ostensibly never jumped, recently started asking Alec about time tech and trying to acquire a watch (about a month ago)
+- Potential Lead: Alec put Tasha in touch with some contact about acquiring a watch.
+- She's been in the knights district frequently.
+- Potential Lead: Clinton and Tasha had a lot to discuss, and Tasha was raising eyebrows at Clinton in the council meeting on her deathday.
+- (Probably nothing) Tasha was really into "Moon Detective", a bad scifi detective TV show from the 50s.
+** Estate
+- Holly wanted to buy the estate, pissed that Miri has it
+- Library: Political structure of the watchtower, and books from across time.
+- Library: Dr Zephyrs books "The Trouble with T.I.M.E" about timeline ruptures and stabilisation, and "Living your next life: Quasi-temporal revivification". (NOTE: Jane Doe heard a revivification talk in the council, did not like it, for unspecified reasons)
+- Crest in the wall behind the library.
+- Golden key on the coffee table, don't know what it unlocks.
+- Two bedrooms, both in use recently. So Tasha was living with someone.
+** Journal
+- I don't have enough time. I need to find it before they do.
+- Selene should know, she's told me so much.
+- As long as I can get to the other time I can figure out.
+  "There's no receptacle though, it can't be used".
+- I feel like I'm going crazy
+- The fact that nobody knows makes them the crazy one.
+- "Worried about Madame E and Selene. Don't know if I can trust them. But I need to know"
+- "I think it's Holly. Something about that mining operation. She's been hiding something from the whole council. Another timeline?"
+- She's not just mining for time fluid.
+** Corkboard
+- Found in Tasha's office
+- Rosemary, Holly, Frog, some businessman, and some mysterious armored figure in the chronoCo column.
+- Frog: "Lost in transit", Armed figure: "Tester"
+- Thorwald elsewhere crossed out, "knows about it" (that is also crossed out), "useful idiot"
+- ?? over a blue tab (watchers?), pictures of Lone Master, Jane Doe, and Whisperer and the British cane dude (Marlow)
+- Trashcan has pictures of Madame E and Selene.
+
+** Letter
+- The letter iRS carefully not frantic, unlike the journal entries from the same time.
+*** Invisible Ink
+- Triplets of numbers, in the form ~(page, line, char)~.
+- Book key at the top. "Time War"
+- Actual message: From Tasha: "Night knowledge collected. Worried about watch agent. Buy the wax seal stamp."
+- Adress: "Aunt Mildred", some time-hopping contact. Addressed to Pompeii
+** Computer
+- Holly ghosted Tasha's attempts to fish for information
+- Small message group ("book club"), exchanged book names, possibly a way to share message keys.
+- Mentions of "the end, the storm", ostensibly film. Someone "worried about the franchise"
+- Tasha asked Holly for support on making minutemen official faction
+- Someone (her contact in Pompeii) visited 2 months ago.
+- 3 watchtower agents implicated in this. We have their contacts, need to trace them. Scarred man was probably one of them.
+** Desk
+Stuff we found in a locked desk drawer. The drawer was booby-trapped with a poison dart, and caught fire once opened.
+*** Film (Collection of disconnected scenes)
+- People bowing to a giant gold chronoCo logo and Holly Holland walking out
+- Mining operations on Earth, probably an alternate-timeline or historical earth. This earth looks less polluted/trashed than ours. Different infrastructure - the mining looks like an entire mining "district". Looks like it was built anew, rather than on top of an existing city. Looks like it was built to be a mining operation and has been solely a mining operation for a while. Desert: Bombed/fallout vibes. Building and a pool are the only nice features, and a towel saying "LRS" (NOTE: Tasha had an LRS handkerchief)
+- Blue haired middle-aged man: Roughly matches the description of Malachai von Spatz, from the lore. Perhaps a relative or younger version, but perhaps not. Might be an alternate-timeline version of him, but that's unlikely.
+- Final shot: Icy background, someone looking for something. Right: Orange haired 18 year old waving at camera, points to a tetrahedron.
+*** Letters Archive
+- To Tasha: "The Last Resort. Enemy of my Enemy. Hall not here." Weeks/months ago
+- To Tasha: "Stealing the Truth, three thirty. Time Man Helping. Distract. Knight Facts Needed." Recent, close to death day
+- From Tasha: "Night knowledge collected. Worried about watch agent. Buy the wax seal stamp." Recent, unsent
+- We found a receptacle manual
+- Burned letters: One dates to a year ago.
+- "Time Man helping". And we have a "Mr TIME"
+** Councillors (We talked to Holly and Jane)
+- Purple scarman stole the data
+- Working for Secondhand Revolution
+- So Tasha probably was as well
+- Original scarman died, Jane wants to talk to ours.
+*** Council Meeting
+- Tasha was in the 930-12 council meeting.
+- Tasha defended accepting time refugee. Holland opposes
+- Zephyr gave a speech on revivification
+- Tasha argued for making the minutemen official
+- Some talk about automatons, and updates from knight commander.

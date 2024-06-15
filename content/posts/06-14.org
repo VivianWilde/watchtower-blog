@@ -1,0 +1,101 @@
+---
+title: Death Valley Knights
+tags: ['Knights']
+date: 2024-06-14
+---
+
+* <2024-06-14 Fri>Death Valley Knights
+
+- Lord Commander MacIntyre meeting: Internal security (Time MI5)
+- Stolen intel: 36 hours unaccounted for, enough time for the code to have been decrypted. Could be Hemlock.
+- Florence Scarred Man: Stole ChronoCo stuff from the tower and fled. Unaffiliated or SecondHand
+- Salamas Scarred Man: Hemlock.
+- Goals: Find out where the information went, how it was stolen. Learn about the men and where they came from.
+- Stolen again somewhere between Florence and Italy.
+- The missing 36 hours is between the Egypt recovery and the return to Tower custody. Conjecture: Spy in the Wednesday group.
+
+** Salamas Guy
+- Was being interrogated by Clinton
+
+*** Good Cop Bad Cop
+- Lightning Gun : Standard High Tech
+- Eight step plan of world domination
+- First step: Trickery, done
+- Second step has happened now. or will happen now. You'll never know.
+- When the skies turn red and the dinosaurs rain from above.
+- Reagan: Your opinions wont be what you want, but I assure you we're still evil.
+- We're behind every inconvenience
+- Third: Those that have risen shall fall, those that fell have already risen and shall rise to the highest spire
+- Fourth: Be careful what you wish for, those that come. New leaders not who you think they are.
+- Fifth: Step away from the TIME man.
+- Percentages, really
+- Dinosaurs: Maybe a little more literal than metaphorical. You'll see. You have to stop it as it happens, and then before it happens. Some kind of paradox. But he implies it won't stop the overall plan.
+
+*** Cold Case
+- Cold Case stops 3.5 days ago. I took temporal damage, which is... bad
+- In a morgue somewhere, person dressed in clown makeup is above him, and he runs, until pulled into Watcher custody.
+- So this is the scarman who was killed in Florence.
+- Timeline is weird.
+- 3.5 days ago in his personal timeline, Salamas man woke up with a clown staring over his head, and got taken into watcher custody - the thing that should have happened to Florence man 6 hours ago.
+- Likely not receptacle shenanigans, instead time fuckery.
+- Only possibility (under known rules): At 3.5 days ago, Salamas man was receptacle-possessing Florence man
+- Internal consistency has been broken
+- Basically: Cold Case should always respect watchtower time. But, this time, personal time overruled - 3.5 days ago cold-case time was 6 hours ago watchtower time.
+- Basically: T-3.5d Salamas receptacled into T-6h Florence. And so was receptacled for the resurrection.
+
+*** Chocolate Croissant!
+- TODO I missed some stuff up here, Enigma can fill in
+- "Strange clown has messed up my watch"
+- Messed up: Hint that this was unintentional
+- "Travelled back with my old self, not my new"
+- "Always be a bit behind, provides quite a bit of advantage in the Watchtower"
+- "Enough future knowledge to cause chaos"
+- "Morgana and Breacher are onto you" (You as in Hemlock)
+
+*** After
+- Salamas man ran out from time labs, Florence came from council. That checks out, Florence guy stole something from the council.
+- Salamas man knew revivification was in his future, and he was rooting around the lab studying revivification.
+
+** Time Labs
+- Lockdown: Door, windows barricaded
+- Accident in the labs: Zephyr is trapped, infestation of zombies
+- Resulted from failed experiments with revivification - the bodies were fine, but failed to bring the minds/brains back (I'm hazy on the distincting)
+- We fought through zombies, saved some, Damien killed a bunch of innocents, yada yada yada
+
+*** Footage
+- Scarred man leaving the lab, corroborates out-of-lab footage.
+- "They couldn't have jumped in here unless the revivification pad setup was used as a jump entrance point".
+- Even this is only possible with something strange.
+- Figure was plausibly re-animated.
+
+** Zephyr
+- Has developed a sort of mind storage receptacle.
+- Going into the past, taking the mind from just before death, storing it on a time SSD, and putting it into the new body.
+- Possibility: Plans, etc. about the body swap device could have been stolen.
+- Messes with the person's internal time engine. Since the watch-person connection is severed by death, but then reignited by revivification.
+- *Takeaway*: Zephyr recognised the scarred man. Jake Robertson, assistant at other ChronoCo lab, connections to other factions, suspected Secondhand agent. Leitborn or Tuhorn recommended him to Zephyr's research group. Possibility: One copy of them stole Council secrets, other stole plans from the lab.
+- *Takeaway*: The clown's revivification of scarman and shenanigans are what caused this to happen.
+
+*** Temporal Physics Details
+- Scarman died at some point in time.
+- The death basically messed up their watch's timeline, i.e their internal timeline as tracked by their watch.
+
+**** First Theory
+ - They were brought back ~3 days later, so by watchtower /age/ they're 3 days younger than by watchtower /time/.
+ - Since their watch was only tracking them for $T-3$ days, and watchtower time was running for $T$ days.
+ - *Takeaway*: Basically, their watch says their $T-3$ days old, watchtower says their T days old. If dies in 2023, and revive in 2024, their Watch says they haven't aged, out of sync with watch timeline
+
+**** Second Theory
+- Death is just turning back the clock on internal time, and thus on their watch time.
+- Eg: You die at 32. I pull your 31 year old mind back into your resurrected body. Your personal watch says you are 31. Body is in 2024, mind could plausibly be from 2023.
+- The missing piece that Zephyr's stuck on is working on pulling the mind from the past. He says he'd be interested in hints towards that.
+- 3 days: Revivification makes them confused, because of the 3 day time drift. It's like 4 dimensional jet lag I think.
+- *Takeaway*: Revival could have messed up the clock, because there's a conflict between it being $32$ years since their birth (watchtower time) and their mind only being $31$ years old (personal watch time, and also actual age)
+
+
+** Final Bombshell
+- Salamas fucker escaped for real, three knights killed, Salamas fucker is now missing.
+
+*** Leads
+- The Clown: Ask him about why the revivification was wonky
+- The Florence fucker
