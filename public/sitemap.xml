@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/06-14/</loc>
+    <loc>http://localhost:1313/watchtower-blog/posts/06-14/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/knights/</loc>
+    <loc>http://localhost:1313/watchtower-blog/tags/knights/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/watchtower-blog/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/watchtower-blog/posts/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/watchtower-blog/tags/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ace-squad/</loc>
+    <loc>http://localhost:1313/watchtower-blog/tags/ace-squad/</loc>
     <lastmod>2024-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/06-09/</loc>
+    <loc>http://localhost:1313/watchtower-blog/posts/06-09/</loc>
     <lastmod>2024-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/06-02/</loc>
+    <loc>http://localhost:1313/watchtower-blog/posts/06-02/</loc>
     <lastmod>2024-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/watchtower-blog/categories/</loc>
   </url>
 </urlset>
