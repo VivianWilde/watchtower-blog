@@ -1,7 +1,8 @@
-baseURL = 'https://vivianwilde.github.io/watchtower-blog/'
+baseURL = '/'
 languageCode = 'en-us'
 title = "Morgana's Watchtower Notes"
 theme = 'm10c'
 [params]
 author = 'Morgan/a Ilkay'
 description = 'Investigations into Time'
+avatar='avatar.jpg'
