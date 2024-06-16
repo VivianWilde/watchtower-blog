@@ -1,0 +1,115 @@
+---
+title: A Chimpanzee, A Hologram, and A Magpie Walk Into A Bar...
+tags: ['Ace Squad']
+date: 2024-06-16
+---
+* <2024-06-16 Sun>A Chimpanzee, A Hologram, and A Magpie Walk Into A Bar...
+** Breacher
+- Found the keys to Tasha's code
+- Last Resort: Place in Tahoe
+- Running for the council, as is Mr Time.
+- Book club: Mildred, Benny, Tasha, Cousin Riley
+- Didn't find the journal, interesting
+** Dr Rain
+- Jake Robertson
+- Political opinions
+- "Making a change"
+- "I guess that's what happens to you after you get a PhD and realize it wasn't worth anything..."
+*** Zephyr Convo
+- Jake: Sent by Lightborn (ChronoCo) or Tuhorn. Or maybe Clinton??
+- Lightborn is a good scientist with delusions of grandeur
+- Robertson's days at university: Part of radical club. "Freedom of the Watchtower", secondhand recruitment funnel.
+- Club still exists
+- Theft: We don't know what.
+- Thinks Robertson was manipulated
+** House (infinite in its kindness)
+- Miri has a token to unlock the crest in the library.
+- We found a secret passage in the library, classic
+- Keep in mind, this is all accessed via a coin from Selene's stuff.
+- So either this is /for Selene to access/ or alternatively
+*** Vault Door
+- 6 digit code, we did not crack.
+*** Notes
+- "21 days"
+- Under that: "last resort, destruction, war, trial, paradox, conspiracy?".
+- Pompeii
+- Submersible diagram "under the lake"
+- Picture of young/parallel/??? Malachai petting a dog
+*** Chess
+- Chess board, missing one of the white knights.
+- The remaining knight is a horse with six legs.
+- NOTE: Breacher has seen the six-legged knight before, but Bryce (OOC) cannot recall where.
+- Position is normal setup, but pawn to e4 has happened
+*** Receptacle Tank
+- Receptacle tank: the thing you step in to bodyswap
+- Receptacle tank: Should theoretically work. But it shouldn't! The watchtower should be temporally locked aside from the Central Engine
+- So this is a place to do bodyswaps without being logged by the central watchtower. But this one doesn't let you bodyswap with someone in the tower.
+*** Auxiliary Time Engine
+- Big bronze disk, 1 foot radius
+- Bronze disk: Walking near it makes you feel lighter
+- Faint purple cylindrical glow - temporal energy?
+- The disk is NOT quite temporally locked. So this is a miniature self-contained auxiliary time engine
+- Receptacle was being used by Tasha. Perhaps to check out Last Resort.
+- Someone jumped in 3 hours after Tasha's death. Plausibly Selene
+- Minutemen markets are on the way here.
+- So Selene probably went by the Auxiliary Engine!
+- Doll made of white clay, laid at the foot of the bronze circle. Robed, not Franciscan monk
+- Object: From a distant past era, taken out of time to the watchtower. So very little wear and tear, but very old.
+**** Plan
+- Question: Could you receptacle into someone, say 3 days ago outside the watchtower, and then that body enters the watchtower (via either time-travelling their body in, or just physically walking in)
+- Say, by using the auxiliary time engine to beam in?
+** Interrogation
+- Less bruised than Greeceman
+- Pristine - no blemishes other than the big ugly scar (resurrected)
+- Nervous, not in control
+- "I was dead. There was a clown"
+- He was looking for someone. It was important. That's his oldest memory
+- "Then I was dead". Chased down by a robot, a detective.
+- Killer was talking about their wife killed by the Mafia
+- Scarman thinks he died in Florence, but we know he was alive when he was brought here. He died from strangulation.
+- Cold case insights: Knight officer, gold, soft hands
+- Jake Robertson was the "tester" on Tasha's chart. Perhaps testing revivification
+- Frog: "Lost in transit"
+- Thorwald: Useful idiot
+*** Breacher
+- Rosemary insight: We can trust her as far as someone with good hardiness can throw her, which is not amazing but hey for a ChronoCo employee that's better than I expected.
+- No reason to distrust her on this thing, but why she's on the board is still a mystery.
+** Stakeout!
+- Someone in a grey trench coat and hat.
+- Furtive, going to the PO box to pick up the thing
+- Veiled face, trenchcoat, gloves.
+- They are spooked, but don't seem to have
+- Path: Leisurely, not circuitous.
+- Walking strangely, bent over like a hunchback
+- Hiding something, or wounded?
+- Goes to providence park and sits at a table
+- It's one person in a coat, but they sit weirdly - like they're hiding something.
+- Shoes: Don't fit right. They don't have human feet! It's like they're holding the shoes with their feet. Apparently their feet are hand-like, and gripping the shoe.
+- TODO: Acquire a 1d16
+- From Sidney: It's a big chimpanzee of some kind
+- Tuhorn works with animals a lot. Hm.
+- Veiled. The Chimpanzee is in mourning for someone. /j
+*** Bird convo
+- "The bread man comes all the time"
+- No regular schedule (per the birds)
+- Meets with people in business suits.
+- Business suit people do not like birds, but the "bread man" (chimp) always feeds the birds.
+- Chimp is their favorite bread man.
+- He always goes, he comes back carrying something, and has us (birds) carry it off.
+- Birds go somewhere and sit there. So some kind of signalling
+- Different birds have different "destinations".
+- "Other treats"
+- Four crows, chimp dispatches them to their destinations at different times as some kind
+- NB: Last time we had a total of 4 book club members, counting Tasha. Nice.
+- "brown cloaks" and "science types" speak to the birds.
+- Science types: Robertson?? Nope, just fieldwork grad students.
+- Tuhorn has talked to this crow before.
+-
+*** Shadowing the Chimp
+- "The Drunken Duckling" bar.
+- Chimp is onto us. Sneaks out a back door, moving quickly to the Central Time Engine
+- Chimp jumped into a different time
+- Barney shook his head, and then went back to paperwork
+- "Pete?" Classified, according to Barney
+- Talk to Watcher command
+- Some unknown councillor gave the order. The chimp is one of Tuhorn's.

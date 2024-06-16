@@ -46,7 +46,7 @@ date: 2024-06-09
 - Trashcan has pictures of Madame E and Selene.
 
 ** Letter
-- The letter iRS carefully not frantic, unlike the journal entries from the same time.
+- The letter is carefully not frantic, unlike the journal entries from the same time.
 *** Invisible Ink
 - Triplets of numbers, in the form ~(page, line, char)~.
 - Book key at the top. "Time War"
