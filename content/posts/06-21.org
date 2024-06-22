@@ -29,7 +29,7 @@ draft: false
 - Stealth team: All but Damien, also tracker and some intelligence agents sneak in to the second floor
 - Question: Can we do private comms, etc. within there? We can.
 
-* RESCUE PLAN
+* Rescue Plan
 - Send the infantry through the service tunnel and into the basement to deal with the temporal disturbances and cause a distraction (their weapons would be unaffected)
 - Our squadron will scale the walls as the totally-not-expendables are distracting
 - Find the Hemlock central console
