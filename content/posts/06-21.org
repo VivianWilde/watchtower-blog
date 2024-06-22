@@ -1,0 +1,95 @@
+---
+title: My Name's Simon Bastil and I'm Here to Rescue You
+date: 2024-06-21T17:38:43-07:00
+draft: false
+---
+* Emergency Alert!
+- The fuck did you guys do on Wednesday?
+- Tilda Swinton is not doing great, kind of on a descent and MacIntyre+Orlaith are turning against her
+- Cleric Orlaith is here, councillor
+- We got outplayed by Hemlock, probably a spy
+- Creel kidnapped in previous session
+- Larry is the one assigning Enigma to babysitting duty. Keeping her out of the way???
+
+* Location
+- 4 stories, including a basement
+- We need to get in, and get out with Creel. Creel can't make the climb
+- Malachai is in there
+- Air traffic control tower (Eye of Sauron)
+- Temporal disturbances in the basement
+** Points of Entry
+- Front door, brute force
+- Scale a wall to the second floor
+- Pipes to the basement.
+- No layout, but we have exterior views and a server room.
+- Last one: Dropship onto the roof. Risk anti-air defenses, but we get immediate third floor access. Roof evac is good.
+
+** Planning
+- Lead a feint against the basement - sent in waves, so that we don't get caught on the back foot
+- Stealth team: All but Damien, also tracker and some intelligence agents sneak in to the second floor
+- Question: Can we do private comms, etc. within there? We can.
+
+* RESCUE PLAN
+- Send the infantry through the service tunnel and into the basement to deal with the temporal disturbances and cause a distraction (their weapons would be unaffected)
+- Our squadron will scale the walls as the totally-not-expendables are distracting
+- Find the Hemlock central console
+- Locate Creel and von Spatz's position; retrieve Creel, assassinate von Spatz
+- Disable the air defense system
+- Rescue Creel and exit with him through the airdrop sight on the roof
+* Attempt
+- We got in through the vents
+- AC disguised itself as a HEMLOCK agent
+- Malachai gave orders over the comms, mentioned "reason to believe there's an infiltration in the main building", i.e he knew about us (despite the distraction)
+- We found the bridge with the main console.
+- Set off a bunch of explosions, fires, and other distractions to peel off some enemies.
+- Enigma tried to sneak to the console to hack, she failed and got downed (rip)
+- Morgana immediately disintegrated everyone who fired at Enigma with a bolt of chain lightning. You don't fuck with the Watchers.
+** Creel Rescue
+- Damien, Tracker and Simon split off to get to Creel on the third floor
+- After freeing Creel, Simon took out one of the aircraft guns in a really epic scene as Damien held off robo-Stalin
+- Simon, Creel and co got evacuated in a thopter.
+- Simon's thopter got downed by the air defenses, but through some quick thinking he was able to heal up Paladin Creel and then land the thopter outside the teleport lock with minimal damage
+- Everyone made it back alive
+** Eye of Sauron
+- Enigma and I split off to get to the Eye of Sauron tower, trying to take out the air defenses and get some information.
+- We got held up by Jeremy the gi-Ant, AC's triceratops and some good shooting dealt with him in short order (but not without Enigma getting downed again like twice.)
+- ChronoCo automatons, sent by Rachel Anderson, bailed us out and got the situation under control.
+- We learned that Malachai had slipped away in the chaos, and the computers had been physically destroyed to prevent hijack.
+- We failed to hack the air defenses. When they tried to fire, AC and I were able to take one of them out, but the other immediately critically hit our Thopter and downed it.
+- We teleported past the fight, and used the pipes to escape and then warped back to the tower.
+* Information
+- We found the central console and got to ask a few questions before the data auto-deleted.
+- Several prisoners here, not just Creel (we failed to rescue them)
+- Why Malachai is here is not in the main computer, but he's in the Eye of Sauron tower, and it probably has something to do with that.
+- Malachai is breeding bug-monsters in the basement. The bugs were causing temporal disruptions?
+- The bug monsters were eating through our main attack squad.
+** Parallels/Collaborations
+- The auto-deletion is familiar, we saw it on Tasha's computer earlier. More parallels
+- Hemlock had psychic grenades, which we thought was only Secondhand. This is pretty convincing proof that they're working
+** Malachai's Comms Anouncement
+- Orders from Malachai: "Kill the ones in blue first, don't worry too much about the rest".
+- Malachai has officially anti-endorsed the Watchers, let's goo!!
+- Morgana is getting that on a certificate
+** Creel
+- Had his helmet removed.
+- Something up with the floors. Electrified
+- Creel hates showing his face. Does Creel have gender dysphoria?
+- Does the Watchtower do gender-affirming care?
+- Morgana is going to anonymously send Creel the contact info of a clinic that does good Facial Feminization Surgery.
+* Anti-aircraft gun
+- Four of them to start
+- Simon took out one with explosives
+- Morgan + Ace took out one of them, by shooting into it just as it fired and detonating the rocket in it /while it was in the gun/ by rolling a critical success.
+- Sam: "You need heavy artillery to take out one of these guns"
+- Morgan: "/You/ need heavy artillery to take out one of these guns. Skill issue"
+- Didn't do anything since our thopter got critically hit by the surviving gun, but man making that shot felt so good.
+* After
+- Rachel Anderson was there to greet us, and to make some remarks about automata being more reliable than knights (she said this in front of someone who is both an automaton and a knight, I wonder how AC felt about that spiel).
+- She criticised our plan of throwing bodies away. Ah, ChronoCo. So good at pretending they care.
+- Orlaith is pissed, mostly at ChronoCo, and wants to discuss a private matter with MacIntyre
+- This was a hit for knight credibility - they needed Watchers + ChronoCo to bail them out.
+- Enigma was so done after today+Wednesday she actually joined us for drinking and socialising. Suspicious.
+- We asked AC who approved the Jurassic Park requisition
+- I guess Tuhorn, eyes go orange and say "it wasn't Tuhorn"
+- I guessed Lone Master, eyes go red and say "perhaps it wasn't a Watcher"
+- That last one is interesting. "No, it was one of the several other Watcher NPCs" would have been a less suspicious response. Hm. Much to think about.
