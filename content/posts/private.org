@@ -47,8 +47,15 @@ Holly's secretly mining for some material important to the effort.
 - Tuhorn opposes everything in council 
 - Might have sent Jake Robertson
 - Was late to emergency meeting
-- Works with animals, and we have the chimpanzee dead drop
 - Tuhorn’s loyalty is questioned by Thorwald. (The "useful idiot")
+- Chimpanzee affair TL;DR : Tasha sent messages to a probably-secondhand agent via a PO box. We dropped a message in the box and staked it out, it was picked up by a chimpanzee, and Barney basically confirmed to us (via insight check) that the chimpanzee is Tuhorn's agent
+*** Chimpanzee
+- Tasha was exchanging letters with an unknown (highly likely to be secondhand) contact in the Watchtower via a PO Box
+- We cracked her code, put a message in the PO box saying basically "direct all future mail to this anonymous PO box monitored by Morgana"
+- While staking out the PO box our message was delivered to, we saw a chimpanzee (named Pete) in a trenchcoat pick it up, and send some kind of message via a crow in a park.
+- The crows are used to this, and in particular they have met with Tuhorn before
+- Pete jumped into a different time
+- Barney knows the chimp - he does classified work for Watcher councillors, in particular works for Tuhorn (confirmed by Barney), and Jane Doe knows nothing about him (at least nothing she's telling me).
 
 ** Spies <2024-06-22 Sat>
 - "Congrats on council campaign, after this I'm sure you'll be a big success."
@@ -93,3 +100,19 @@ Holly's secretly mining for some material important to the effort.
 - One of the spies: New Recruit.
 - Brad: New recruit to the Watchers. We don't know anything else suspicious about him.
 - Morgana wants to cold case him at some point, Enigma is ok with it but will not be helping/endorsing
+* Reasons not to vote for Mr Time
+- Secondhand communications: "Time Man helping" (with the theft of info)
+- Hemlock agent from Greece: "Step away from the Time Man"
+- Hemlock
+- His swift rise recently: Mirrors Selene, and we know how that turned out
+- Friend and collaborator with the Clown, an agent of chaos who doesn't seem to have any of our best interests at heart.
+- Recommendation: Breacher - an independent with a good head on their shoulders, and if you must vote for ChronoCo go for John Mcnally
+* <2024-06-23 Sun> Leads
+- Question: Would Enigma be willing to join Morgan in a Slack GC with Jane+Larry and go "hey guys, what are you working on?"
+** Leads
+- Tasha's basement
+- Chimp and Tuhorn
+- Watchtower agents
+- Chessboard: Six-legged knight.
+- Clay Doll: Rest of the set?
+- Minutemen district drone streaming

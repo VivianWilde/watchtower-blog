@@ -10,7 +10,8 @@ tags: [Knights]
 - Cleric Orlaith is here, councillor
 - We got outplayed by Hemlock, probably a spy
 - Creel kidnapped in previous session
-- Larry is the one assigning Enigma to babysitting duty. Keeping her out of the way???
+- Enigma's Watcher councillor is the one assigning her to babysitting duty.
+  # Keeping her out of the way???
 
 * Location
 - 4 stories, including a basement
