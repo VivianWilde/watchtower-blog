@@ -15,7 +15,11 @@ A Watcher investigator with an eye for the truth and a sharpshooter's aim.
 - Took out an anti-aircraft gun by shooting into it just as it fired, detonating the rocket in it /while it was in the gun/.
 
 ** Accomplishments (Private)
-[REDACTED]
-# - Got Enigma to laugh.
-# - Got Enigma to spend the night playing at a bouncy castle, willingly.
-# Quote: "Are there clues at the bouncy castle?" "I don't know. I've never been to a Murder Mystery Bouncy Castle but now I desperately want to." "Well if there are clues it is our duty to the Watchtower to investigate."
+- Got Enigma to get ice-cream with a ChronoCo employee.
+- Got Enigma to laugh.
+- Got Enigma to spend the night playing at a bouncy castle, willingly.
+#+begin_quote
+"Are there clues at the bouncy castle?"
+"I don't know. I've never been to a Murder Mystery Bouncy Castle but now I desperately want to."
+"Well if there are clues it is our duty to the Watchtower to investigate."
+#+end_quote

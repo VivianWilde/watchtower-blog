@@ -1,118 +1,137 @@
 ---
+title: Private Speculation
 draft: true
 ---
-
-* Secrets: Wednesday Traitor
-- Stolen intel: 36 hours unaccounted for, enough time for the code to have been decrypted. Could be Hemlock.
-- Stolen again somewhere between Florence and Italy.
-- The missing 36 hours is between the Egypt recovery and the return to Tower custody. Conjecture: Spy in the Wednesday group.
-
-
-- Malachai showed up on Tasha's conspiracy boards and also the film
+* Leads
 - More on the Kaleidoscope that was in Tasha's hands
 - Look for entries/exits logged on the auxiliary time engine to follow Selene
-- Talk to frog about lost receptacle shipment - maybe Tasha got her receptacle from there somehow.
-
-* Speculation
-It looks like advanced technology development is underway in secret, likely related to revivification.
-And Hemlock and Secondhand are heavily involved. Hemlock seems to be the planner, tentatively. 
-Jake Robertson was tester. Corroborates hints about Florence death being "all according to plan" from Greece man. 
-Holly's secretly mining for some material important to the effort. 
-
-* Leads
 ** Concrete
-- Watchtower agents: We have contact info of book club agents. If we can do some work to put names to those, that could get us something to chase down.
-- Last Resort, Under the Lake
+- Talk to frog about lost receptacle shipment - maybe Tasha got her receptacle from there somehow.
+- "Freedom of the Watchtower", secondhand club. They recruited a scientist to the secondhand, our french guy is a secondhand scientist...???
 - Selene's house
 - Pompeii, flush out Mildred
-- Thorwald: Useful idiot, also knight was involved in the murder.
 - Vault door in Tasha's estate
-- Trace the clay doll
-** Hard to Use/Played Out
-- Rosemary: She doesn't know why she's on the board, we can talk with her.
-- Clinton
-- Mr Time is suspicious
-- "Freedom of the Watchtower", secondhand club
+# - Rosemary: She doesn't know why she's on the board, we can talk with her.
 ** Abstract
 - Who got Tasha a receptacle? Frog probably involved (stolen from)
 - Who all has Tasha receptacled into?
-- Reagan??
-- Holly's advanced tech
-- Malachai in the film
+# - Reagan??
 - What was the Kaleidoscope thing
 - Receptacle chamber in Tasha's house, whose? Remember she had a receptacle manual, that was stored with the letters from mysterious person. Inchresting
-- NOTE From Breacher: Lost in transit means that a shipment of receptacles was stolen from the frog - perhaps given to Tasha, perhaps even to Scarman.
-** Tuhorn
-- Will: A sculpture of a frog for Councilor Tuhorn of the Forest
-- Tuhorn opposes everything in council 
-- Might have sent Jake Robertson
-- Was late to emergency meeting
-- Tuhorn’s loyalty is questioned by Thorwald. (The "useful idiot")
-- Chimpanzee affair TL;DR : Tasha sent messages to a probably-secondhand agent via a PO box. We dropped a message in the box and staked it out, it was picked up by a chimpanzee, and Barney basically confirmed to us (via insight check) that the chimpanzee is Tuhorn's agent
-*** Chimpanzee
-- Tasha was exchanging letters with an unknown (highly likely to be secondhand) contact in the Watchtower via a PO Box
-- We cracked her code, put a message in the PO box saying basically "direct all future mail to this anonymous PO box monitored by Morgana"
-- While staking out the PO box our message was delivered to, we saw a chimpanzee (named Pete) in a trenchcoat pick it up, and send some kind of message via a crow in a park.
-- The crows are used to this, and in particular they have met with Tuhorn before
-- Pete jumped into a different time
-- Barney knows the chimp - he does classified work for Watcher councillors, in particular works for Tuhorn (confirmed by Barney), and Jane Doe knows nothing about him (at least nothing she's telling me).
-
-** Spies <2024-06-22 Sat>
-- "Congrats on council campaign, after this I'm sure you'll be a big success."
-- Could reference last week of sessions (i.e last Fri/Sun/Wed). Who came out of those looking good? Mr. Time, really. That's about it.
-- "Recent assignment to the Watchers should prove most fruitful with our dastardly deeds."
-- Clown is suspicious as hell: Either Hemlock has insight into her weird eldritch dinosaur shenanigans, or she's an agent
-
-- Stockton: How long have they been with us?
-- Rosemary? I sure hope not. But they do have schemes afoot.
-- Rain: Plausible
-- Magpie: Plausible
-- Councillor: Mr Time and Clown are sus. This looks like a chronoco plot.
-- Breacher: "Recently joining the watchers"
-
-
-* Putting Pieces Together
-# - LRS shows up a lot
-- Tasha "no receptacle, it can't be used". In light of recent receptacle-related plans and shenanigans, how much did she know about the secondhand/hemlock/robertson body-swap timehop bullshit.
-# - Clinton's showing up a lot.
+- From Breacher: Lost in transit means that a shipment of receptacles was stolen from the frog - perhaps given to Tasha, perhaps even to Scarman.
 ** Receptacle
 - Receptacle tank and manual on Tasha's estate
 - Question: Could you receptacle into someone, say 3 days ago outside the watchtower, and then that body enters the watchtower (via either time-travelling their body in, or just physically walking in)
 - Say, by using the auxiliary time engine to beam in?
 - Cold case insights: Knight officer, gold, soft hands
-
-
-* What we know
-- Holly is doing mysterious mining for not time fluid without council knowledge 
-- Tasha was collaborating with the second hand revolution
-- Selene was feeding her info somehow
-- Second-hand engineered a theft and a distraction by the scarred men.
-* Leads on finding Selene
+** Spies
+- Clown, Damien, Brad likely Hemlock spies.
+- Secondhanders are known, and I'm one of them now!
+- TIMEOUT spies: Not in the brief, but possible.
+- One probably minuteman Hemlock spy unaccounted for. Jett or Magpie are only options. We've tailed Magpie a little, looks like it's Jett.
+* Finding Selene
 - Selene's house
 - Miri?
-- Tilda - what did she tell Tasha?
-- "Enemy of my enemy" might refer to Selene
+- "Enemy of my enemy" might refer to Selene, or more likely now to one of the proto-villains
 - kaleidoscope object
-- last resort/lrs
+# - last resort/lrs
+# - Tilda - what did she tell Tasha?
 
-* Enigma Secret
-- Nothing set. I don't know quite what I'm doing
-- One of the spies: New Recruit.
-- Brad: New recruit to the Watchers. We don't know anything else suspicious about him.
-- Morgana wants to cold case him at some point, Enigma is ok with it but will not be helping/endorsing
-* Reasons not to vote for Mr Time
-- Secondhand communications: "Time Man helping" (with the theft of info)
-- Hemlock agent from Greece: "Step away from the Time Man"
-- Hemlock
-- His swift rise recently: Mirrors Selene, and we know how that turned out
-- Friend and collaborator with the Clown, an agent of chaos who doesn't seem to have any of our best interests at heart.
-- Recommendation: Breacher - an independent with a good head on their shoulders, and if you must vote for ChronoCo go for John Mcnally
 * <2024-06-23 Sun> Leads
-- Question: Would Enigma be willing to join Morgan in a Slack GC with Jane+Larry and go "hey guys, what are you working on?"
-** Leads
 - Tasha's basement
-- Chimp and Tuhorn
-- Watchtower agents
 - Chessboard: Six-legged knight.
 - Clay Doll: Rest of the set?
-- Minutemen district drone streaming
+- Soft-handed knights
+* <2024-06-23 Sun>Last Resort
+** Time War
+- What were the early moves of the war like? That might be hints as to how it started.
+- Review Selene/Tasha's interests in resurrection - did they want to do some kind of mass resurrection to restore Earth after the time war?
+# - Status of colonies and stuff like that after bioweapons. Unknown
+** Malachai
+- Did Malachai have a turning point into his insanity, or was it a slow decline. Either way, what contributed? Any outside interventions?
+- Observation: Young Tuhorn and young Malachai are both pretty chill.
+- Does something happen to drive them both insane, or is it just time?
+# - The animal Malachai needs to synthesise a general cure - a mission to recover that?
+** Our Time
+- Question: A lot of weird paradox and loop stuff is happening. Why have we not felt temporal ramifications?
+- Is Hemlock's plan about starting this, stopping it, or something in between? Look at the steps again.
+- The desert video
+- Why did Dr Rain leave ChronoCo? Was it related to this?
+- Related: Ask Dr. Rain about feasibility of timeline tech.
+- Bombing ChronoCo CFO: Did we do that? Really?
+- How much do Councillors know? In particular, the Lone Master as well as our own councillors (Jane, Morton)
+*** Theft
+- Selene killed Tasha, unwillingly. What was Tasha trying?
+- What was stolen, and why was it so important to Tasha, Selene, and the Secondhand?
+**** Conjecture
+- Conjecture: "Council business". Perhaps related to timeline research?
+- Tasha was helping with the theft. Did Selene draw a line there?
+- Ok. Vital knight warplans, and intelligence/spy placement details, and something else Jane refuses to tell me and Breacher doesn't know.
+- Wilde suspects the theft was a distraction for something much greater
+** Tuhorn
+# - Tuhorn has info on a suspicious corpse in Pompeii. Can that narrow down our search range for Mildred?
+- Tuhorn: Who left him the watch, when (in sender timeline), and how did they acquire it?
+- Question: When on Tasha's end did this reaching out occur. Was it Tasha? Was it one of us? Was it future Tuhorn? Was it a Secondhander or Hemlocker?
+** Selene, Tasha, and the Catch 22
+- Selene was feeding Tasha info.
+- So Tasha is the center of all this.
+- But Selene or Madame E is perhaps the prime mover
+- What set Tasha on the trail?
+- Who set Selene on the trail?
+- Where is Madame E, and what's her role?
+- Who wrote the LRS entry in the archives?
+*** Speculation
+- Implication from the conversation we overheard: Selene was put onto this trail by someone else. Perhaps Madame E, perhaps a chance conversation with a Secondhander on a mission, perhaps something arranged.
+- So, someone sent Tuhorn here.  Someone also sent Selene here. Tasha sent the Secondhand here.
+- Tasha needed a Watcher to discover this place. So a watcher was helping Tasha before Tasha was in the weeds.
+- The big question is the unclosed part of this catch 22. So Tasha needed a Watcher to start chasing this down. And we have "Selene should know, she's told me so much" from the journal.
+- Tuhorn convo: Hinted it wasn't him who tipped off Selene. So the loop extends.
+- Clues about Madame E have been thin on the ground. She's hiding and up to something, but what? Was she the prime mover in this?
+
+* Frida Aleman
+Faction Leader - Frida Aleman: The “face” of the Secondhand, claims to have a past with the Watchers but no one can find any record of it. Has not been seen in the field, only on videos, recordings, and recruitment posters.
+- Have we seen her before at all, and who is she?
+- Watcher past.
+- Future Enigma or Morgana?
+- Future Madame E or Selene?
+- Is she the dog?
+* Prison Break Electric Boogaloo
+- Find AC
+- Cold-case and record
+- Send Dalton the video
+- We didn't break the NDA, it was one of yours without our knowledge, we tried to stop them.
+- Goodbye, have a nice life, give Rosemary a bonus, she deserves it.
+* Suspicious Councillors
+** Jane Doe & Larry Morton
+- Jane seems to be suspicious about my visit - she reminded me of the watcher missions afterwards, and I've let slip to her about LRS in the past
+- Larry tortures people for funsies
+- Both collaborating on a project - take down Tuhorn
+- Both left me on read regarding the Enigma situation
+- Probably armageddon cheer squad
+** Lone Master
+- Mysterious. Is he Marlow's patron?
+- Clown had a bug transmitting to the dark side of the moon.
+- Lone Master's estate is known to be there.
+** Holly Holland
+- <Long string of swear word>
+- Breacher claims she might be secondhand but I don't care
+- Timeline shenanigans, and cult worship of some kind, now largely under the control of Will and Cecilia Dalton
+- We brought Holly down!
+
+** Rachel Anderson
+*** What we know
+- Secret patron of AC
+- Wants to replace humans with bots
+- Militarising her bots
+- Wants to kill Enigma and Breacher (and probably me at this point)
+*** Tasha's Will
+I think I've mentioned this to Breacher already, but we know now that Anderson is a major player. Also, the only people left stuff by Tasha were [redacted knight councillor], Tuhorn, Selene, and Anderson. I wonder if:
+
+1. Her militarisation and escalation of the war is entirely accidental, or if she knows more than she's letting on (even if she doesn't have the full picture. e.g - she just knows there's going to be a massive war, and she wants ChronoCo to win. Even then, it's curious how she learned whatever she did)
+2. Tasha/Selene/etc. knew something about her significance (and if so, what? Anything we don't know?)
+3. asha/Selene/etc. had any active or planned operations involving her - like trying to investigate, bring down, recruit, etc, and in particular if anything is set in motion that we can build on top off if we need.
+
+A lot of this is irrelevant to our actions - we need to stop Anderson regardless of how intentional she's being and regardless of how much Tasha knew about her - but they're still worth looking into and might help us unravel the mystery a bit further.
+* <2024-06-28 Fri> Cold Case
+- Rachel Anderson going "so the cuffs worked?"
+- AC erased itself from the timeline, undoing the Holland leak and a bunch of other stuff

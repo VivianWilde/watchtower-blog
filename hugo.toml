@@ -5,7 +5,9 @@ theme = 'm10c'
 author = 'Morgan/a Ilkay'
 [params]
 author = 'Morgan/a Ilkay'
-description = 'Unravelling the Mysteries of the Watchtower'
+description = "Note: If you weren't actually at the session assume your character doesn't know anything here, it's just a way to organise notes OOC."
+
+
 avatar = 'avatar.jpg'
 [[menu.main]]
 name = "Case Notes"
@@ -16,3 +18,8 @@ name = "About"
 title = "About"
 url = "/about"
 weight = 2
+
+[pagination]
+  # disableAliases = false
+  pagerSize = 50
+  path = 'page'

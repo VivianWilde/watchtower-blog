@@ -1,0 +1,251 @@
+---
+title: Last Resort
+draft: true
+date: 2024-06-23
+---
+
+Enigma isn't with us. Sadness. I'm sorry!
+* COMMENT Breacher Updates
+- Tilda Clinton got erased from the timeline????
+- Oh. That's why Rachel Anderson was there with the androids rather than
+- AC erased Clinton, and he's secretly working for Rachel Anderson
+- Oh. Fuck.
+* Last Resort
+# - No people around, I had to receptacle into a cat
+- Buildings are pristine but decaying
+- Used to be "laguna/lagoon (?) resort and spa", now "/last/ resort and spa"
+- It's our-timeline Lake Tahoe, around 2430
+- So around 30 years into the future
+# - Scarecrow animatronic welcomes us in.
+# - "Stays free! Luxurious accomodations (mispelled)"
+# - Bell on the counter, "ring for service"
+** Rooms
+- Reheated frozen meal
+- A few branching off hallways - Suites
+- Pool, Lake access, Sauna, Spa
+- Sauna and pool: Generic but nice
+** COMMENT Lake
+- There's a figure with white robes skipping stones.
+** Talk to Rat
+- Comings and goings: The cleaner. Automaton.
+- Blue-hair lives here.
+- Rat hasn't noticed blue man leaving
+- Routine: Lake and Pool
+- Retired Malachai von Spatz? [Update: Proto-Malachai]
+- "There used to be a small human": Took the small human to the lakeside and they aren't around anymore.
+- Child also had blue hair [Update: RIP. Genuinely. Sorry Malachai]
+* Talk To Malachai
+- He seemed surprised
+- He seems like a hotel manager
+- Speculation: His demeanor will change a lot once we ring the bell, he'll become more professional
+- Called it!
+** Pressing the button
+- We got a towel just like Tasha
+- They gave us a handkerchief
+- "Malcolm Spencer"
+# - TODO: Quiz him about history events, try to sus out if he's from an alternate timeline
+- "I'm pretty sure it's your first time in my tenure here"
+# - Ok he's from an apocalypse time.
+# - He knows about the kid and is not mentioning that.
+# - He doesn't count the kid as a visitor
+- He knows about time travel.
+- He's in time T+27 2370
+** Time War
+- Bombs
+- Context: No missions or jumps past the Watchtower founding are allowed, so this place is strange.
+- War started between 30 and 20 years ago (so close to our time. Shit)
+- Bioweapons hit 10 years ago
+- Conflict: Watchtower as rules binding the factions
+- Something happens, sparks a conflict, factions fight
+- War starts, Watchtower is destroyed eventually
+- Question: What's the state of the moon right now? Ans: Destroyed, it turns out. We'll find out at night
+- ChronoCo was protecting Earth for a tiny bit, knights get destroyed
+- Now everyone is dead.
+- Moon: Not looking great, we'll find out tonight
+*** Questions
+- What were the early moves of the war like? That might be hints as to how it started.
+- This is Hemlock's plan, basically.
+- Update from post-game: It probably isn't, unless Malachai had a full 180 when he transitioned to the new gender of mad scientist.
+** Him
+- Trying to cure the weapons
+- It worked, but too late
+- Background: Scientist
+- Working for different labs
+- We can investigate his background for Hemlock connections.
+- Update: Probably not going to find anything.
+- This guy is 40
+- We have records on younger Malachai Von Spatz, but not before 40.
+- He loves Blorbo the dog a cartoon dog, the Clown's chaos god takes the form of Blorbo. Jesus fuck I hate it here.
+- Malachai's daughter died, and he couldn't save her.
+- Malachai is giving ice king from adventure time vibes.
+- Aw. Now I'm sad.
+*** Conjecture
+- Tasha and others knew this place
+- "By the time I figured out the cure everyone was dead"
+- People have been looking seriously into revivification.
+- Hmmm. Time to go back to notes.
+** His Lab
+- Bioweapon effect: "Temporal disintegration but a disease"
+- Now-extinct animal helpful in synthesising a cure.
+- He gave us a few vials of the miracle cure. CANNOT BE USED ON NON-TYPE-O blood!
+- After knight annihilation, watchers or chronoco set off bioweapons.
+- Bioweapon effect.
+- "Like eating a chunk of uranium".
+- You just die, aren't erased from the timeline or anything
+- Speculation: Temporal decay, rapid aging and heat death.
+- Harmful chrono-dust/??? is in the air and water. Not a disease, didn't evolve, just created to kill and spread.
+- Spread: Micro-particles. None is in the air anymore, it's faded by now.
+** Under the lake
+- ChronoCo experiment, dumped time fluid under the lake.
+- From Tasha's comms "Hall not here". Holly?
+- Random time portals connecting through the lake (shoutout breacher for twigging this connection)
+- She hasn't had luck finding it.
+* Birds Eye View
+- No secrets or anything
+- Lake looks a little weird. Occassionally green or purple glow, time radiation?
+- There is a little spot under the lake, with enough power to create a temporally locked location.
+- We notice a group of 3 people. One in a wheelchair, and also a dog.
+- The desert video was set here.
+- We have a future mad scientist and the ingredients for an underwater base.
+- INSIGHT: This is Hemlock's future base of operations, probably.
+* Surprise Guest
+- Piglet (secondhand operative, orange hair). 16, so two years before the video
+- NOTE: Apparently Piglet loses a hand in the future. Is this pre or post- secondhand hiring?
+- Answer: This is pre Secondhand formation. She's a proto-agent
+- Dog
+- Woman in a wheelchair (~24), probably the receptacled Uzi kid.
+- She has an innate ability to identify receptacles: Not supernatural, borne of experience
+- Man in a beret, he's a lackey
+- "I knew this was a bad idea", when informed other guests are here.
+** Breacher Convo
+- Breacher knows these people, has a rocky history/future/WTF with them
+- ChronoCo: Zephyr looking into something before frenchman left
+- Riley is the one in the chair
+- ChronoCo has a device, weird science to save billions of lives.
+- ChronoCo ability: Stabilise alternate timelines
+- They're looking into tech to create timelines, frenchman believes rewriting timelines is the next likely step.
+- This could save us. Frenchman is working on making it possible to rewrite stuff in temporally-locked locations like Watchtower.
+- Right now, the dog is just a dog (we don't know if it becomes anything later, we're just paranoid).
+- Update: The dog gave breacher-drone a crucial piece of info, so the dog is important.
+- Piglet is taking a video journal.
+- Tasha found LRS info in the archives and sent it to the secondhand, including the coords.
+- These people are partly blood partly found family
+- These people are pre-secondhand
+*** Timeline Logic
+(For my own benefit)
+- Ok. So watchtower spans timelines.
+- So presumably time war spans timelines.
+- So this exists in /every/ timeline, including potential ones.
+- Ok, so that's the issue the frenchman is working on solving.
+** Insights
+- Tasha was working with Selene and Tuhorn
+- You need high-ranking watcher access to view the LRS page
+- So Tasha was working with a watcher /before/ she got involved in this.
+- So a watcher put Tasha onto this!
+- Throwaway: Secondhand allegedly bombed chronoco CFO, when questioned they said it was Watchers, and they were framed for it.
+** Hemlock
+- Malachai's insanity mixed with his desire to "stop ChronoCo and Watchers", turning into HEMLOCK.
+** Secondhand
+- Probably just rebel cell, trying to stop apocalypse by disrupting watchtower operations.
+- No overly violent acts that they admit to.
+* More Surprise Guests
+- Old man reading a book, "Troy"
+- It's young Tuhorn.
+- He speaks coherently!
+- Observation: Young Tuhorn and young Malachai are both pretty chill.
+- Does something happen to drive them both insane, or is it just time?
+- Tasha told him to come here, excuse of "book club"
+- Tuhorn is searching for the Watchers In Wait
+- He has a conspiracy board and a found time watch.
+- The found watch had coordinates set to here and message "come to book club"
+- The watch was mailed to him in the 80s
+- So Tasha left it for him.
+- This is Tuhorn from the 1980s, around the time he's tracking the Watchers.
+- Question: A lot of weird paradox stuff is happening. Why have we not felt temporal ramifications.
+** The Watch
+- Sent to him in the mail.
+- Tuhorn's conspiracy: Uncovering watcher intervention throughout history, tracking down the Watchers
+- Dinosaur skeleton that has a ring in it.
+- Pompeii: Petrified corpse, with lithium (battery) and other minerals near it.
+- TODO: We need to use Tuhorn to trace the remaining book club members, specifically the one in Pompeii he mentioned
+- TODO: The Watch itself. Is it perhaps from a stolen shipment or something? Who could have potentially given it to him?
+- This is after he's found the watchers but before joining them.
+- There are some reviews from the 80s on Time Goodreads, so 80s Tuhorn.
+- Book club: Tasha, Tuhorn, a probably-secondhander in Pompeii, and an unknown probably-Hemlocker.
+- This watch is the first instance of Watchtower reaching out to young Tuhorn.
+- Question: When on Tasha's end did this reaching out occur. Was it Tasha? Was it one of us? Was it future Tuhorn.
+* Night
+- Moon is irradiated, and potholed with bigger craters, including one really massive one.
+- Watchtower is the source of the explosion crater.
+- It's probably destroyed by temporal weapons/radiation, or time fluid.
+- In game terms, energy or temporal
+- Piglet throws a frisbee, runs up the hill to get it.
+- Sight: Someone is being very quiet. A hushed voice discussing with Malachai.
+** Dialogue
+- ?? "can't stay long, are you sure all that's true"
+- M: "yes it's true"
+- ??: "shit. why's it hidden"
+- M: "I don't know you hid it..., probably"
+- ?? is confirmed to be Selene!
+- She left a letter for Miri
+*** COMMENT Speculation
+- Speculation: "You hid it" could either be Watchers, or "you" as in a future Selene? Hard to tell, but likely the former.
+- Implication: Selene was put onto this trail by someone else.
+- So, someone sent Tuhorn here.  Someone also sent Selene here. Tasha sent the secondhand here.
+- Tasha needed a Watcher to discover this place. So a watcher was helping Tasha before Tasha was involved.
+- The big question is the unclosed part of this catch 22. So Tasha needed a Watcher to start chasing this down. And we know that "Selene should know, she's told me so much" from the journal.
+- So Selene was feeding Tasha info, this suggests somehow
+- So Tasha is the center of all this.
+- But Selene or Madame E is perhaps the prime mover? Or at least one step "before" Tasha in the weird loop. We need to figure out the digraph of how people spread this knowledge (or hints to it) with each other.
+** COMMENT Frisbee
+- Dog was pawing at the drone
+- Dog stares at rat-Breacher
+- Dog shows Breacher frisbee, it's near a headstone
+- Headstone: Text is private to Breacher, but it's for Malachai's daughter.
+* Leads/Questions
+- As always, WHAT THE FUCK IS UP WITH THE CLOWN???
+- AC and Clinton and Rachel Anderson. Ask AC who its councillor is next time we talk, see a) how it responds and b) if it reacts
+- The only people willed anything from Tasha were Clinton and Tuhorn+Selene+Anderson. Since Clinton was her lover and Tuhorn+Selene are both up to their neck in this, I think we should be paying attention to Anderson.
+** Time War
+- What were the early moves of the war like? That might be hints as to how it started.
+- Review Selene/Tasha's interests in resurrection - did they want to do some kind of mass resurrection to restore Earth after the time war?
+- Status of colonies and stuff like that after bioweapons.
+- Answer: Unknown, but likely that without shipping/comms/support from Earth they either died off or its just a matter of time (the second part is Vivien speculation, not DM or Morgana)
+** Malachai
+- Is Malachai just Ice King from adventure time?
+- Did Malachai have a turning point into his insanity, or was it a slow decline. Either way, what contributed? Any outside interventions?
+- Observation: Young Tuhorn and young Malachai are both pretty chill.
+- Does something happen to drive them both insane, or is it just time?
+- The animal Malachai needs to synthesise a general cure - a mission to recover that? [Update: Sidney has this info]
+** Our Time
+- Is Hemlock's plan about starting this, stopping it, or something in between? Look at the steps again.
+- The desert video
+- Why did Dr Rain leave ChronoCo? Was it related to this?
+- Related: Ask Dr. Rain about feasibility of timeline tech.
+- Bombing ChronoCo CFO: Did we do that? Really?
+- How much do Councillors know? In particular, the Lone Master as well as our own councillors (Holly, Jane, Morton. Tuhorn is spoken for)
+*** Theft
+- Selene killed Tasha, unwillingly. What was Tasha trying?
+- What was stolen, and why was it so important to Tasha, Selene, and the Secondhand?
+**** COMMENT Conjecture
+- Conjecture: "Council business". Perhaps related to timeline research?
+- Tasha was helping with the theft. Did Selene draw a line there?
+- Ok. Vital knight warplans, and intelligence/spy placement details, and something else Jane refuses to tell me and Breacher doesn't know.
+- Wilde suspects the theft was a distraction for something much greater
+** Shenanigans
+- Question: A lot of weird paradox and loop stuff is happening. Why have we not felt temporal ramifications?
+** Tuhorn
+- Tuhorn has info on a suspicious corpse in Pompeii. Can that narrow down our search range for Mildred?
+- Tuhorn: Who left him the watch, when (in sender timeline), and how did they acquire it?
+- Question: When on Tasha's end did this reaching out occur. Was it Tasha? Was it one of us? Was it future Tuhorn? Was it a Secondhander or Hemlocker?
+** Speculation: Selene, Tasha, and the Catch 22
+- Implication from the conversation we overheard: Selene was put onto this trail by someone else. Perhaps Madame E, perhaps a chance conversation with a Secondhander on a mission, perhaps something arranged.
+- So, someone sent Tuhorn here.  Someone also sent Selene here. Tasha sent the Secondhand here.
+- Tasha needed a Watcher to discover this place. So a watcher was helping Tasha before Tasha was in the weeds.
+- The big question is the unclosed part of this catch 22. So Tasha needed a Watcher to start chasing this down. And we have "Selene should know, she's told me so much" from the journal.
+- So Selene was feeding Tasha info, this suggests somehow
+- So Tasha is the center of all this.
+- But Selene or Madame E is perhaps the prime mover
+- What set Tasha on the trail?
+- Who set Selene on the trail? Perhaps Tuhorn, perhaps Madame E?
+- Clues about Madame E have been thin on the ground. She's hiding and up to something, but what? Was she the prime mover in this?

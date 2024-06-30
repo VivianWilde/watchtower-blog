@@ -1,0 +1,135 @@
+/*
+Basically, the graph of how knowledge of LRS, "The End", etc. was spread and interchanged
+*/
+
+digraph  {
+    labelloc=t
+    label=< <U><B>Knowledge of 'The End' and of LRS</B></U> >
+    node [style=filled;labelloc=t];
+
+    // edges from unknown: Used to denote that an edge (i.e information transfer) exists but we don't know one of the endpoints.
+    unknown // someone must have done it, damned if we know who
+
+    archives
+    selene
+
+    // Nodes
+
+    subgraph cluster_villains {
+        label=villains
+        node [color=pink]
+        malcolm
+        malachai
+        hemlock
+        secondhand
+        proto_secondhand
+        frida
+        timeout
+    }
+
+    subgraph cluster_knights {
+        label="any knights who know?"
+        // empty for now
+    }
+
+    subgraph cluster_councillors {
+        label=councillors
+        node [color=gold]
+        madame_E
+        tasha
+        tuhorn [color="lightgreen:gold"]
+        // holly
+        jane
+    }
+
+    subgraph cluster_book_club {
+        label=book_club
+        node [color=lightgreen]
+        tasha [color="lightgreen:gold"]
+        mildred
+        bookclub_4
+        troy
+
+        edge [style=dotted]
+        tasha -> mildred
+        tasha -> bookclub_4
+        tuhorn -> tasha
+        tasha -> troy
+    }
+
+    subgraph cluster_players {
+        label=players
+        node [color=skyblue];
+        breacher
+        morgana
+        enigma
+        clown
+        miri
+
+        breacher -> morgana [style=normal]
+        morgana -> enigma [style=dashed, label="TODO"]
+    }
+
+
+    // Edges
+
+    subgraph confirmed {
+        edge [style=normal]
+        malcolm // source node
+        malcolm -> malachai
+        malachai -> hemlock
+
+        unknown -> troy [label="watch+book club mention"]
+        troy -> tuhorn
+
+        tasha -> morgana [label="journal/clues"]
+        selene -> miri [label="trail of clues"]
+
+        tasha -> proto_secondhand
+        proto_secondhand -> secondhand
+
+        secondhand -> breacher [label="on a mission"]
+        /* Implication: At first meeting, secondhand knew Breacher as a partial ally. We closed this loop at LRS. */
+    }
+
+
+    subgraph speculation {
+        edge [style=dotted]
+        selene->tasha
+        selene-> madame_E [label=accidentally]
+        archives -> madame_E
+        tuhorn -> selene
+        archives -> jane
+        malachai -> clown
+        hemlock -> bookclub_4 // some connection maybe not info transfer
+        timeout -> bookclub_4 // both complete mysteries
+        timeout -> madame_E //both complete mysteries right now
+    }
+
+    subgraph ruling_out {
+         edge [color=red,style=invis]
+         madame_E -> selene
+         // holly->tasha
+         // holly->selene
+         // jane->holly
+         // unknown -> holly  // Per Tuhorn she knows nothing
+     }
+
+    subgraph unknowns {
+        edge [style=normal]
+        unknown -> archives [label="who archived it???"]
+        unknown -> madame_E
+        unknown -> clown
+    }
+
+
+
+
+
+
+
+
+
+
+
+}

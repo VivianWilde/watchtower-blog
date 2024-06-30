@@ -4,7 +4,7 @@ date: 2024-06-23T11:23:42-07:00
 draft: false
 tags: [Ace Squad]
 ---
-* TIFU by Letting my +Bestie+ Trusted Colleague Get Captured By a Capitalist [CENSORED]
+* TIFU by Letting my +Bestie+ Trusted Colleague Get Captured By a Capitalist [BLEEP]
 ** Notes on the basement walls
 - Several inconsistencies
 - 21 days: "The End?", "TIMEOUT",
@@ -66,8 +66,6 @@ tags: [Ace Squad]
 *** Sneaking About
 - Magpie went on ahead, then the watcher squad
 - We have life signs, nothing too suspicious on Enigma and Miri's temporal vision
-- Secret: A little purple blotch following us, invisible in normal-vision
-- We shot it, turned out to be some kind of drone with a cloaking field
 - Conjecture: Double-dipping from the moon. So taking resources from different time periods.
 - It disagrees with the video of the trash-heap earth.
 *** Birds-Eye View
@@ -117,7 +115,3 @@ tags: [Ace Squad]
 - Cleric Orlaith
 - Cleric Hadvar
 - Damien ???
-*** Drones
-- We dissected the invisible drone we shot down
-- Streaming somewhere deep within the minuteman district
-- Probably tailing us. We need to investigate this.
