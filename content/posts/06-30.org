@@ -1,9 +1,8 @@
 ---
-title: How am I Gonna be an Optimist About This?
+title: How Am I Gonna Be An Optimist About This?
 date: 2024-06-30T11:32:35-07:00
 draft: false
 ---
-
 
 * Cat Convo
 - Not a receptacle
@@ -71,7 +70,7 @@ draft: false
 - "You're the one they sent? I thought they'd send the kid but I'm okay with that"
 - So Frida was waitng for us, and probably watching Mildred
 - The kid should know the locker combo by now
-- Interpretation
+- Interpretation: Vault door code.
 - "Storm is coming", etc.
 - To find Selene, look elsewhere, a different time.
 - Selene's trying to save us all, in the belly of the beast
@@ -125,3 +124,20 @@ draft: false
 - "You're being relocated to a luxurious spot in timeline XYZ, you will be in charge of the society here". So we have coordinates, and Selene is hiding somewhere in the engineers hideline.
 - We have all the data
 - Including coords on both mining and engineer-palace timelines.
+* Highlights
+- Cat is clean now, but Tasha receptacled into it for LRS
+- They had a bunch of parts which they brought back to secondhand HQ presumably
+- Met Frida Aleman
+- Frida has a mask that lets her see magpie, either timesense or /see invisibility/
+- She's working with Selene and knows Miri
+- "Selene is trying to save us all"
+- "Find Holland's engineers and you'll find Selene"
+- We opened the vault door. Code used some stuff we've found already, plus also the precise date of the Egypt mission
+- 1/3 of a blueprint for a temporal stabiliser/paradox stopper, secondhand project
+- We stole coordinates for a timeline where Holland's engineers are staying, that's our next stop to find Selene, hopefully our last.
+** Speculation
+- "Selene trying to save us all" is intriguing
+- Frida's here in person. This is significant. Why is she here, what does she know?
+- Is she the one who put the LRS entry in the Watcher archives?
+- From the chat logs forever ago: (To Mildred) "Wait for me. Found something. Talking to detective shortly". From Uncle Benny (Tuhorn), about 6:10 on Tasha's deathday (so ~30 minutes before murder)
+- So Tuhorn was in conversation with a detective

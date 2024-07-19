@@ -112,12 +112,15 @@ Faction Leader - Frida Aleman: The “face” of the Secondhand, claims to have 
 - Mysterious. Is he Marlow's patron?
 - Clown had a bug transmitting to the dark side of the moon.
 - Lone Master's estate is known to be there.
+** Eyes Unseen
+- Never seen before
+- Are they on the dark side of the moon?
+- With a name like that, probably cheer squad
 ** Holly Holland
 - <Long string of swear word>
 - Breacher claims she might be secondhand but I don't care
 - Timeline shenanigans, and cult worship of some kind, now largely under the control of Will and Cecilia Dalton
 - We brought Holly down!
-
 ** Rachel Anderson
 *** What we know
 - Secret patron of AC
@@ -135,3 +138,237 @@ A lot of this is irrelevant to our actions - we need to stop Anderson regardless
 * <2024-06-28 Fri> Cold Case
 - Rachel Anderson going "so the cuffs worked?"
 - AC erased itself from the timeline, undoing the Holland leak and a bunch of other stuff
+* <2024-06-30 Sun> Magpie Conversation
+- Reasons not to leak: If we let armageddon cheer squad know we're onto this, they'll put a bullet through us.
+* TODO
+- We're diving into engineer-land next week. If we can hack the timeline engineering plans and send them to Quaid we're doing great.
+- We'll need Enigma for this.
+-
+** Siege Info
+- Spies: Brad and Damien
+- Third spy: No information. Nothing on a spy #3.
+- Perhaps it was a joke.
+- Holly's death is necessary for the war to break out
+- Holly is "spark, last camel on the ark".
+- 
+* Florence
+- From Enigma
+- Handkerchief, LRS (probably Tasha's)
+- Used time capsule
+- Briefcase, 1704 password, empty
+- Hand Towel, LRS
+- And a kaleidoscope
+- Someone I may have been working with had a particular interest in kaleidoscopes, but was cagey about it.
+* Larry
+- There was an article on LRS in the archives, but it didn't have the coordinates.
+- Larry's the archivist so he must have approved it, i.e he definitely knows about it.
+- The article was misfiled, so the only way someone could find it is if they were pointed to it or coincidentally stumbled upon it.
+- The publication and also decision to misfile it would have to be approved by Larry.
+- We're not sure if Larry knows the original author but he might.
+* TODO Chronite
+- Chronite can be time-dilated
+- Kaleidoscope: Capsules periodically open, purple-ish stuff falls through. So definitely pulling resources from another timeline.
+- Corollary: Chronite from parallel timelines "works" in this one for something.
+- Related to what we saw in the refinery
+- There's a secret here, time to science it out
+- Ok, "normal" chronite is for travelling.
+- Chronite interacts with its environment, perhaps oxidising and stuff
+- Chronite must, in some sense, exist not entirely within the normal flow of time, since it permits time travel
+- Time-dilated chronite might have interesting properties, since the "aspects" of chronite that are "in normal time" would be dilated but the other aspects would not, so we get an element that "ages" on multiple "scales" simultaneously
+- We're getting fluid refined from time-dilated parallel chronite.
+
+From the slides we have
+#+begin_quote
+Keeping Pace: Because Watches are synchronized, spending 1 minute in another Timeline will usually make 1 minute pass in the Watchtower. However, certain jumps may allow you to distort this pace (ex. 1 hour in the Timeline = 1 minute in the Watchtower), but will always move in the same direction.
+#+end_quote
+So this is what's up with the mining Timeline. And chronite from here is time-dilated.
+
+From the journal we have
+#+begin_quote
+She's not just mining for time fluid.
+#+end_quote
+
+* TODO Paradox
+- We need to get paradox to agree to a deal where he'll wear any outfit the clown suggests
+-
+** Drag Race
+- Challenge: A drag race
+- Stakes: Shouldn't matter, but needs to be believable.
+- Stake: "Loser can never celebrate pride month again"
+
+**  Desperation
+- Wear an outfit of clown's choosing
+- Why would the Clown want paradox to wear an outfit?
+- Illusion, disguise, distraction.
+* Jane and Larry Meeting
+** Acceptable tidbits
+- Uncle Benny in the book club is Tuhorn
+- Everything I'm allowed to say about Holly's alternate-timeline operations.
+- Don't mention the engineer timeline or the coordinates
+- Creel doesn't have gender dysphoria, he's a figurehead, but they've probably guessed this already
+- Clay doll, maybe.
+
+** Temporal Faults
+- Recount finding myself in the CTE, with a recording of
+
+* Magpie Scheming
+- Get Enigma on digitally tracing the messages
+- Asking what they want with the info - even if they lie or evade that'll be something
+- Asking for more money and seeing if they blink
+- Ask for a meeting or a call to hear some voices (and then send a breacher drone to the meeting, or have Enigma try to trace the call with her tech)
+- Ask for secrets or technology in exchange rather than money - don't make any deals, but if they bite they'll tell us what they can offer which will help us understand who we're dealing with
+* Getting out alive
+** Information to give
+*** Breacher
+- Footage: Abstractly, we want to:
+  - Confirm Breacher is a willing ally of the secondhand
+  - Not incriminate me or Enigma
+  - Don't reveal specific plans
+- We sent the bomb footage, so they know Breacher is consorting with major secondhand operatives
+- Don't mention the "stolen info being unaccounted for" plan
+- Mention that Breacher spoke to Tuhorn and brought me along
+*** Pompeii/General
+- Tuhorn's mentions of "the detective". Pretty sure they didn't mean either of us, i.e there's another detective to worry about.
+- We can reveal the existence of the stabiliser as an idea, but not the blueprints
+- Reveal what we saw in Pompeii other than the temple
+- Mention we found it by trailing Pete.
+- Note that they'll probably find the temple if they case Pompeii, we need to get a message to Frida
+** Faking our deaths
+*** Clown
+** Defecting
+- New names
+- New gimmick: Swap out Missing Piece if Sam lets me for a new passive.
+- Potential one: Seeing through other eyes, so I can serve as Magpie's wisdom score and give people advantage on wisdom checks
+- Minutemen: Breacher councillor would be a bad idea
+*** Shaking off bugs
+- Our devices probably have life sign indicators or something
+- We need to be careful
+- If we can slip them in a Faraday cage that's great
+- Maybe we can get the clown to erase them for us - maybe just feed a loop of activity or random noise or cut the feed for a while
+**** Finding a Faraday Cage
+
+* TODO
+- Secure the pieces in the vault before their attacked
+- Ask Sam what was up with the person trying to buy info
+- Ask Sam: @The Council (Sam) given that we saved everything from Harry's laptop (RIP), was there anything on there relevant to (2)? Like links to some kind of internal wiki or private git repo that we could social-engineer (or just hack) our way into accessing?
+- I could be getting mixed up, but Larry mentioned Holly "needing to die" during his interrogation of me and Enigma
+- Secret goal: Get Enigma under a scanner - how did Larry stabilise a walking temporal anomaly?
+- Get temporal guns and grenades for me and Magpie
+- Think about how to defend against teleports
+- Switch out missing piece for a combat gimmick
+- Talk to Magpie, our other primary combatant, about tracing Enigma from above
+- It looks like enemies have most combatants
+- I doubt we can sway Bastil (especially if Enigma's loyalist) so we have no healers
+- If Breacher dies, Bryce should make someone who can fight or heal maybe.
+- Any reports from trailing Santa Claus? Ok Santa's roughly with us. Awesome
+** Mansion and Escape Routes
+- If Tasha's mansion is raided/destroyed while we're in the other time, how does that work?
+- How likely is it that Watchers attack it given the recent council rulings?
+- Will that ruling stand if Breacher goes AWOL or dies?
+** Anti-teleport
+- For action teleports, stop them from using their action. So down or stun, or get an anti-teleport ability
+- For reaction teleports, tracer shots so they can't get away that easily, or even just some kind of paintball/radiation that shows up so we can trace them
+- Called shots to their watch
+- We need to be able to disrupt them enough that we can escape when we're ambushed
+-
+* Council <2024-07-13 Sat>
+Upshot: 18 seats total (losses mainly to ChronoCo)
+- 4 hardline watchers
+- 1 ??? watcher
+- 1 sane watcher
+- 5 knights, anti-watcher
+- 7 chronoco
+- Knights and Watchers roughly cancel out if we're optimistic
+- As long as the Council stands (i.e not very), broadly speaking
+- With knights + Dalton + Zephyr + Lightborn we have a decent 8-person block.
+
+
+** ChronoCo
+1. Will Dalton
+2. Dr. Zephyr
+3. Regina Cho
+4. Dr. Avery Lightborn
+5. R.R Hurlabur
+6. Enrique Moss Esquire
+7. Caleb Lloyd
+# 8. Mr TIME (???)
+** Knights
+1. Cleric Thorwald
+2. Cleric Hadvar
+3. Lord Commander MacIntyre
+4. Paladin Glasg
+5. Cleric Orlaith
+** Watchers
+1. Lone Master
+2. Jane Doe
+3. Larry Morton
+4. Marlow McPherson
+5. Eyes Unseen
+6. Whisperer
+* Planning
+** If we kill Larry
+- Blame ChronoCo and go to war
+- Blame the Secondhand, bipartisan nuke us for councillor-killing and then cheer squad does cheer squad things
+- How do we
+** State of play
+- Marlow wants to kill Larry
+- Enigma also seems to
+- Phoenix, Izzy and I are hoping to incriminate him rather than kill, and protect whoever Larry is targeting.
+* Costume
+** Full AC
+- Eh, not really
+** AC/Juniper
+- Mask: Golden/yellow light around the eyeholes, polished metal all around and bronze gear and circuit designs (including a large gear on the side as the "accessory") (camera and sensor/scanner capabilities)
+- A facemask that looks like a grille/speaker (audio recording, optionally communicating with the group)
+- Metallic-grey robes with accents in ChronoCo gold and knightly red trimmings
+- A little commemorative Velociraptor pin from Dinosaur Park
+- Ace pride pins because puns
+- A little handcuff keychain hanging from a belt loop
+* Tower Defense
+** Hall of the Dead
+- Gauntlet
+- Zephyr's Zombies
+- Robot zombies with mental fields
+- Plaguebearers: Accelerate rate of infection
+
+** Secondary Room
+- Blender
+- Fire and Ice
+- Nerve gas and drones
+
+
+** Starlancer
+** Warlord
+- Neutralise ALL TU/Watch abilities (friend and enemy)
+- Cipher model warlord: A big mecha tank
+
+
+* Plans
+- Rosemary and John convince the Daltons to get pissed at the cheer squad and not at the knights
+- If Jane tries to spin it as "ChronoCo security killed Orlaith", given that Magpie's already a fugitive she can just claim responsibility for that
+- Magpie and Nicolas (and Sidney if they want) break out Tuhorn, maybe
+- Juniper and Phoenix (and Magpie and Izzy if they want in) kill Jane and Larry and eat popcorn as we watch them bleed out
+
+* Post-Enigma
+* Afterwards
+- Enigma got the threads out, but it looks like something worse got implanted in their place
+
+
+(1) will buy me time and protection which is kind of what I need, (2) will let me do secondhand work freely, (3) will make it impossible for me to attend sessions but will be insanely fun
+
+Whenever you know, could you let me know what Breacher's situation looks like once I get out of interrogation just in terms of :
+- Is she alive
+- Is she still a councillor
+- Did she get taken in for questioning or anything
+- Did she do anything crazy like disappear mysteriously or openly defect to secondhand?
+** Character Arc
+- So much less trusting now.
+- Way more secretive, even with Rosemary
+- Just really tired. If she's in combat with watchers she'll probably just try to minimise casualties and get secondhanders out alive.
+-
+
+** Options Matrix
+1. Fake death or no
+2. Defect to Regina Cho, MacIntyre, or just SecondHand
+*** Faking death will buy time
+-
