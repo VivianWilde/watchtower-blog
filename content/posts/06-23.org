@@ -1,7 +1,6 @@
 ---
 title: Investigating Holly Holland's Minecraft Game
 date: 2024-06-23T11:23:42-07:00
-draft: false
 tags: [Ace Squad]
 ---
 * TIFU by Letting my +Bestie+ Trusted Colleague Get Captured By a Capitalist [BLEEP]

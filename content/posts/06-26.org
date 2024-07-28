@@ -1,7 +1,6 @@
 ---
 title: Saving Enigma
 date: 2024-06-26T18:13:35-07:00
-draft: true
 ---
 
 * <2024-06-26 Wed>

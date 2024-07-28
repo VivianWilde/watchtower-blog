@@ -1,7 +1,6 @@
 ---
 title: My Name's Simon Bastil and I'm Here to Rescue You
 date: 2024-06-21T17:38:43-07:00
-draft: false
 tags: [Knights]
 ---
 * Emergency Alert!

@@ -1,7 +1,6 @@
 ---
 title: How Am I Gonna Be An Optimist About This?
 date: 2024-06-30T11:32:35-07:00
-draft: false
 ---
 
 * Cat Convo
