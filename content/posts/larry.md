@@ -1,4 +1,6 @@
-OUTDATED, use the discord
+---
+title: Cheer Squad Dossier
+---
 # Jane
 - Deadly with a sword cane: x3 attacks, 2d6+6 each
 - +6 agility and hardiness, insane character, insane-r wis, ?? tech but does that even matter?

@@ -1,5 +1,7 @@
 ---
 draft: true
+title: Dalton Family Ball
+date: 2024-07-17
 ---
 * Planning
 ** If we kill Larry

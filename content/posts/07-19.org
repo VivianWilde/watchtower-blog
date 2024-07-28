@@ -1,0 +1,89 @@
+---
+date: 2024-07-19
+title: Darkest Hour
+---
+* ChronoCo
+- Everything is in disarray
+* Terrorist Scum!
+- Grasshopper is dead
+- Enigma, Nic, and Magpie, and the Daltons, are here.
+- Simon is also here!
+* Conversations
+- Cecilia's on our side - not secondhand, but willing to convince Will to stop the apocalypse.
+- We need to convince Will on Sunday
+- We showed Cecilia the apocalypse
+* Breakout
+- Watch them on the cameras, try to suss out weaknesses and hidden tricks via Juniper BS
+- Riley and Rosemary will scream abuse through the intercoms
+- Blast doors: try to isolate Larry
+- Jane's masks exist
+- So assume Marlow is there ready to neutralise any teleports we apply.
+** Zombies
+- Drones will teleport and stabilise out foot soldiers
+- Warning will sound, and then send them into the zombie room
+** Toxic deluge, nonlethal
+- Nonlethal debuff gas
+- Spiders and snakes and jellyfish drones
+- Enigma and Magpie: Hit-and-run tactics, chip away at health before they reach Warlord
+- Sidney as our unholy alchemist
+** Drone Room
+- Miri's remote-controlling the drones
+- Manually detonated suicide bombers
+- Jane's going to take a Morgana to the face
+- Enigma teleports Magpie in to fuck around and take some pot shots.
+** Warlord
+- Mech
+- Rallying mechanics
+- Me and Phoenix, against whoever is alive.
+- Rosemary: Standing by to deactivate suppressors for a second
+- TODO: When Magpie's back, ask for some of her bombs and toys.
+** Roles
+- Deluge room: Send an Enigma drone to pincushion Larry's threads
+- Warlord: Simon heals, MacIntyre buffs, Phoenix tanks, Juniper support and nukes, Damien to tank
+* Larry
+-Larry's Threads are very strange, and feel almost like they have a mind of their own. When attached, they can drain a target, stealing their life or even progressing them quickly through time.
+-The Threads can control limbs they are embedded in: by default those limbs just go numb, but things could be worse…
+-Larry is seen talking to his threads often.
+-Larry’s Watch is custom, and is the spool around which the threads are wrapped. It seems to warp and shift in shape, as if its properties change.
+-Larry has ~20 threads
+-Larry’s favorite appetizer is Deviled Eggs
+
+** Ideas
+- Codewords to get the threads out
+- Deal with the watch
+-
+
+* Lone Master
+- Flowing hair and opera mask
+- Ok fellow gay person
+- Artifact: Magic tome. Goddamn nerd
+- Has an ability to buff allies
+- Buff: 0.1 seconds of futuresight
+- Spellcasts at Sidney: Penalties on roll
+- Lone Master can block watch abilities
+- He has a repositioning ability
+- Legendary resist, obviously
+* Battle
+* Jane
+- 
+
+* Larry
+- 5 thread actions on a turn
+- Threads can heal, confirmed
+- Can lifesteal
+* Marlow
+- Pocketwatch of toys
+- Bullshit grenades
+- Extra attack
+- Has 4 counterspells, spent 1
+* Paladin Glasg
+* Notes
+- Jane and Marlow have panspectrals
+- 3 rounds till demolitions make it through
+- Possibly 1 if they spend a nightmare
+
+* Weakness
+- Mental vulnerability, energy resist for elites
+- Larry: currently vulnerable to energy
+- Lone Master: Resists mental, vulnerable to temporal
+- We can target a thread with mental damage, but doesn't look like anything else

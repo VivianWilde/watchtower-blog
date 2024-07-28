@@ -1,6 +1,7 @@
 ---
 date: 2024-07-05
 draft: true
+title: Goblin I guess
 ---
 
 * The Goblin

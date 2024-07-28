@@ -132,7 +132,7 @@ I think I've mentioned this to Breacher already, but we know now that Anderson i
 
 1. Her militarisation and escalation of the war is entirely accidental, or if she knows more than she's letting on (even if she doesn't have the full picture. e.g - she just knows there's going to be a massive war, and she wants ChronoCo to win. Even then, it's curious how she learned whatever she did)
 2. Tasha/Selene/etc. knew something about her significance (and if so, what? Anything we don't know?)
-3. asha/Selene/etc. had any active or planned operations involving her - like trying to investigate, bring down, recruit, etc, and in particular if anything is set in motion that we can build on top off if we need.
+3. Tasha/Selene/etc. had any active or planned operations involving her - like trying to investigate, bring down, recruit, etc, and in particular if anything is set in motion that we can build on top off if we need.
 
 A lot of this is irrelevant to our actions - we need to stop Anderson regardless of how intentional she's being and regardless of how much Tasha knew about her - but they're still worth looking into and might help us unravel the mystery a bit further.
 * <2024-06-28 Fri> Cold Case
@@ -143,14 +143,12 @@ A lot of this is irrelevant to our actions - we need to stop Anderson regardless
 * TODO
 - We're diving into engineer-land next week. If we can hack the timeline engineering plans and send them to Quaid we're doing great.
 - We'll need Enigma for this.
--
 ** Siege Info
 - Spies: Brad and Damien
 - Third spy: No information. Nothing on a spy #3.
 - Perhaps it was a joke.
 - Holly's death is necessary for the war to break out
 - Holly is "spark, last camel on the ark".
-- 
 * Florence
 - From Enigma
 - Handkerchief, LRS (probably Tasha's)
