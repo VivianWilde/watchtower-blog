@@ -18,7 +18,7 @@ Something passes unsaid between them, and the Magpie nods in understanding. And 
 
 The pen has disappeared off the table (no surprises there), but the Magpie's been kind enough to leave the coordinates there untouched. Luna takes out a photo album from her top drawer, and leafs through a few dozen cat pictures until she finds a free square. She adds the coordinates to the top of her ever-growing to-do list, and then files the paper away.
 
-At midnight, while everyone sane is asleep and Enigma is filling out field reports in her office, the Magpie flashes her shiny new permission slip to Barney, and punches in the coordinates.
+At midnight, while everyone sane is asleep and Luna is filling out field reports in her office, the Magpie flashes her shiny new permission slip to Barney, and punches in the coordinates.
 That night, as she trails Morgana through the streets of the Watchtower, she whispers "your sister says she misses you."
 
 
