@@ -10,7 +10,7 @@ Magpie turns to Luna and hesitates for a minute. Luna sighs "if your next senten
 "Is this about the crown jewels again? Because if so, I already told you no. Several times"
 
 Magpie shakes her head. "No. This one's... personal". She opens her mouth as if she's about to say something, but instead she silently hands Luna a slip of paper with a list of coordinates.
-Luna plugs them into the Watcher archives, just to be safe. The computer whirrs for a minute and then bright green text flashes `1 reference found in Personnel Files`. There's a small preview of the result - a grainy photo of a watcher sitting with an ice-cream cone, waving to the camera.
+Luna plugs them into the Watcher archives, just to be safe. The computer whirrs for a minute and then bright green text flashes "`1 reference found in Personnel Files`". There's a small preview of the result - a grainy photo of a watcher sitting with an ice-cream cone, waving to the camera.
 
 Luna's silent for a while, lost in memories. She snaps back to the sound of a pen scratching on paper, the Magpie trying to forge her signature. Luna rolls her eyes and snatches the pen away, finishing the signature.
 As Luna hands back the form, she looks down like she's trying to find the words to say something. "Could you tell her.... Never mind. "
