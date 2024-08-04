@@ -4,9 +4,12 @@ title: "Magpie's Epilogue: Addendum"
 
 Luna's not even surprised when she walks into her office and sees Magpie rooting through her drawers, desperately looking for trinkets to pawn. They've worked out a tacit arrangement where Magpie never takes anything too important, and she'll usually steal it back if Luna promises enough credits (Magpie gives Luna the 'friends and family' 0.1% discount. It's her own little way of showing she cares)
 
-"No Magpie, I don't have any credits"
+"No Magpie, I don't have any credits".
+
 Magpie turns to Luna and hesitates for a minute. Luna sighs "if your next sentence is about organs I swear..."
-"I need permission for a jump"
+
+"I need permission for a jump".
+
 "Is this about the crown jewels again? Because if so, I already told you no. Several times"
 
 Magpie shakes her head. "No. This one's... personal". She opens her mouth as if she's about to say something, but instead she silently hands Luna a slip of paper with a list of coordinates.
