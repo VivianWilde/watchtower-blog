@@ -1,6 +1,5 @@
 ---
 title: In Lieu Of An Epilogue
-subtitle: Or, `2d12+1` Things Morgana Would've Done If She Had More Time
 ---
 ## `2d12+1` Things Morgana Would've Done If She Had More Time
 1. Forgiven Enigma immediately and bought her ice cream as a welcome back present
