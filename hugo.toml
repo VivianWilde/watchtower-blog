@@ -11,13 +11,17 @@ description = "Delving into the Mysteries of the WatchTower"
 avatar = 'avatar.jpg'
 [[menu.main]]
 name = "Case Notes"
-url = "/"
+url = "/case-notes"
 weight = 1
+[[menu.main]]
+name="Fanfic"
+url="/fanfic"
+weight=2
 [[menu.main]]
 name = "About"
 title = "About"
 url = "/about"
-weight = 2
+weight = 3
 
 [pagination]
   # disableAliases = false
